@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0282794f-01e4-430d-a431-af5f5df66049" name="Changes" comment="function.php added">
-      <change afterPath="$PROJECT_DIR$/project/php_exercise/wachtwoord.php" afterDir="false" />
+    <list default="true" id="0282794f-01e4-430d-a431-af5f5df66049" name="Changes" comment="made a good function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +11,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,8 +54,14 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp1\htdocs\Learning_01\project" />
       <recent name="C:\xampp1\htdocs\Learning_01\free_learning" />
+      <recent name="C:\xampp1\htdocs\Learning_01\backend_book" />
       <recent name="C:\xampp1\htdocs\Learning_01" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="first_javas.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="first_javas.js" working-dir="$PROJECT_DIR$/project/php_exercise">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +72,9 @@
       <option name="presentableId" value="Default" />
       <updated>1665513991098</updated>
       <workItem from="1665513992483" duration="703000" />
-      <workItem from="1665730156801" duration="12311000" />
+      <workItem from="1665730156801" duration="13873000" />
+      <workItem from="1665996580557" duration="13000" />
+      <workItem from="1666170059236" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="first update">
       <created>1665514442636</created>
@@ -83,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665731218297</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="made a good function">
+      <created>1665750527284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665750527284</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +126,7 @@
     <MESSAGE value="first update" />
     <MESSAGE value="second update" />
     <MESSAGE value="function.php added" />
-    <option name="LAST_COMMIT_MESSAGE" value="function.php added" />
+    <MESSAGE value="made a good function" />
+    <option name="LAST_COMMIT_MESSAGE" value="made a good function" />
   </component>
 </project>
