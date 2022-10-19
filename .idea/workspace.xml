@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0282794f-01e4-430d-a431-af5f5df66049" name="Changes" comment="made a good function">
+    <list default="true" id="0282794f-01e4-430d-a431-af5f5df66049" name="Changes" comment="buyuk duzgun guncelleme yapildi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/MyFirst/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/MyFirst/2.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,7 @@
       <workItem from="1665513992483" duration="703000" />
       <workItem from="1665730156801" duration="13873000" />
       <workItem from="1665996580557" duration="13000" />
-      <workItem from="1666170059236" duration="311000" />
+      <workItem from="1666170059236" duration="2079000" />
     </task>
     <task id="LOCAL-00001" summary="first update">
       <created>1665514442636</created>
@@ -104,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665750527284</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="buyuk duzgun guncelleme yapildi">
+      <created>1666170933705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666170933705</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +136,7 @@
     <MESSAGE value="second update" />
     <MESSAGE value="function.php added" />
     <MESSAGE value="made a good function" />
-    <option name="LAST_COMMIT_MESSAGE" value="made a good function" />
+    <MESSAGE value="buyuk duzgun guncelleme yapildi" />
+    <option name="LAST_COMMIT_MESSAGE" value="buyuk duzgun guncelleme yapildi" />
   </component>
 </project>
