@@ -1,51 +1,85 @@
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html;
-        charset=UTF-8">
-        
-    
-    <title>omer</title></head>
+<?php
+
+echo "<br> Opdracht 24 <br> <br>";
+
+$gewerkteuren =40;
+$uurtarief=15.00;
+$bonus=100.00;
+
+$bruto = $gewerkteuren * $uurtarief;
+
+if ($gewerkteuren<=40){
+    echo "Uw basissalaris is: " . $bruto;
+    echo "<br>Uw belasting is: " . 0.40 * $bruto;
+}
+
+echo "<br> <br> Opdracht 25 <br> <br>";
+
+$belasting = 0.40 * $bruto;
+
+if ($gewerkteuren<=40){
+    echo "Uw basissalaris is: " . $bruto;
+    echo "<br>Uw belasting is: " . $belasting;
+    echo "<br>Uw nettobedrag is: ". ($bruto-$belasting);
+}
+
+echo "<br> <br> Opdracht 26 <br> <br>";
+
+$gewerkteuren = 45;
+$uurtarief=15.00;
+$bonus=100.00;
+
+$bruto = $gewerkteuren * $uurtarief;
+$bonus_bruto= $bonus + $bruto;
+$belasting = 0.45 *$bonus_bruto;
+
+if ($gewerkteuren<=40){
+    echo "Uw basissalaris is: " . $bruto;
+    echo "<br>Uw belasting is: " . $belasting;
+    echo "<br>Uw nettobedrag is: ". ($bruto-$belasting);
+}elseif ($gewerkteuren > 40){
+    echo "Uw basissalaris is: " . $bruto;
+    echo "<br>Uw basissalaris plus bonus is: ".($bruto+$bonus);
+    echo "<br>Uw belasting is: ". $belasting;
+}
+
+echo "<br> <br> Opdracht 27 <br> <br>";
+
+if ($gewerkteuren<=40){
+    echo "Uw basissalaris is: " . $bruto;
+    echo "<br>Uw belasting is: " . $belasting;
+    echo "<br>Uw nettobedrag is: ". ($bruto-$belasting);
+}elseif ($gewerkteuren > 40){
+    echo "Uw basissalaris is: " . $bruto;
+    echo "<br>Uw basissalaris plus bonus is: ".($bruto+$bonus);
+    echo "<br>Uw belasting is: ". $belasting;
+    echo "<br>Uw nettobedrag is: ". ($bonus_bruto-$belasting);
+}
+
+echo "<br> <br> Opdracht 28 <br> <br>";
+
+$controle = ($gewerkteuren < 40 ? "Belasting is 40%" : "Belasting is 45%");
+
+echo $controle;
 
 
-    
-        
-  <body>
-    
-  
 
-    <?php
-    $gewerkteuren = 45;
-    $uurtarief= 15.00;
-    $bonus= 100.00;
-    $bruto= $gewerkteuren * $uurtarief ;
-    $netto= $gewerkteuren * $uurtarief - 0.45 * $bruto;
 
-    if($gewerkteuren<= 40){
-        echo "Uw basissalaris is: e ". $bruto;
-        echo "<br>Uw belasting is: e ". 0.40*$bruto;
-        echo "<br>Uw nettobedrag is: e ". $netto;
-    }elseif ($gewerkteuren > 40) {
-        echo "Uw basissalaris is: e ". $bruto;
-        echo "Uw basissalaris plus bonus is: ". $bruto+$bonus;
-  
-    }
-    /*
-    $uur =10;
 
-    if($uur<=11){
-        echo "Goedemorgen";
-    }elseif ($uur>=12 && $uur < 18) {
-        echo "Goedemiddag";
-    }else{
-        echo "Goedenavond";
-    }
-    */
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
     ?>
-    </body>
-
-    </html>

@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0282794f-01e4-430d-a431-af5f5df66049" name="Changes" comment="buyuk duzgun guncelleme yapildi">
+      <change afterPath="$PROJECT_DIR$/backend_book/lab/lab.1.09.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend_book/opgaven/stringmethodes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/oefening_toets/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/oefening_toets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/oefening_toets/omer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/oefening_toets/omer3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/oefening_toets/omer4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/oefening_toets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/php_exercise/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/php_exercise/sne.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/toets/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/MyFirst/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/MyFirst/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend_book/opgaven/if-opdracht.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend_book/opgaven/if-opdracht.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend_book/opgaven/verwerken.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend_book/opgaven/verwerken.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -46,14 +59,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp1\htdocs\Learning_01\project\oefening_toets" />
       <recent name="C:\xampp1\htdocs\Learning_01\project" />
       <recent name="C:\xampp1\htdocs\Learning_01\free_learning" />
       <recent name="C:\xampp1\htdocs\Learning_01\backend_book" />
@@ -76,7 +92,11 @@
       <workItem from="1665513992483" duration="703000" />
       <workItem from="1665730156801" duration="13873000" />
       <workItem from="1665996580557" duration="13000" />
-      <workItem from="1666170059236" duration="2079000" />
+      <workItem from="1666170059236" duration="2583000" />
+      <workItem from="1666273968568" duration="9508000" />
+      <workItem from="1666349456784" duration="2758000" />
+      <workItem from="1667209488921" duration="872000" />
+      <workItem from="1667216793343" duration="5320000" />
     </task>
     <task id="LOCAL-00001" summary="first update">
       <created>1665514442636</created>
@@ -113,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666170933705</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="buyuk duzgun guncelleme yapildi">
+      <created>1666193749418</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666193749418</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

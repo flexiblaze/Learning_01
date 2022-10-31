@@ -6,14 +6,17 @@ if(isset($_POST["submit"])){
         $naam= $_POST["naam"];
         $taal= $_POST["taal"];
 
+
         if ($taal=="N"){
             echo " Goedendag " . $naam;
         }
         elseif ($taal=="E"){
             echo "Good Morning " . $naam;
         }
-        else{
-            echo "Taal niet ingevuld";
+        elseif($taal== "S"){
+            echo "Buenos dias " . $naam;
+        }else{
+            echo "Taal  niet ingevuld ";
         }
     }
 }
